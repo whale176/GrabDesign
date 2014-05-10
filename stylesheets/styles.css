@@ -7891,7 +7891,7 @@ button.close {
     display: none !important;
   }
 }
-/* line 14, ../sass/styles.scss */
+/* line 13, ../sass/styles.scss */
 .gd-header {
   z-index: 1;
 }
@@ -7925,7 +7925,7 @@ button.close {
 
 /* line 47, ../sass/styles.scss */
 .gd-jumbotron {
-  background: img-url("slider.png");
+  background: url('../images/slider.png?1375408068');
   background-size: cover;
 }
 /* line 54, ../sass/styles.scss */

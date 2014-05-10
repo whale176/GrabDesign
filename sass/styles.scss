@@ -6,7 +6,6 @@
 
 @import "compass";
 
-
 // gd- prefix:
 // A prefix (stands for "grabikon design") chosen to avoid class name collisions
 // with Twitter Bootstrap class names.
@@ -14,8 +13,9 @@
 .gd-header{
 
   z-index: 1;
-  //
+  
   // Practice 2, Practice 4.
+
   ul {
     list-style-type: none;
     padding-left: 0;
@@ -48,7 +48,7 @@
   //
   // Practice 5.
   //
-  background: img-url('slider.png');
+  background: image-url('slider.png');
   background-size: cover;
 
   h2 span{
