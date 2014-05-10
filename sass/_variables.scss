@@ -27,13 +27,13 @@
 // Scaffolding
 // -------------------------
 
-//$body-bg:               #fff;
-//$text-color:            $gray-dark;
+$body-bg:               #fdfdfd;
+$text-color:            #222;
 
 // Links
 // -------------------------
 
-//$link-color:            $brand-primary;
+$link-color:            #444;
 //$link-hover-color:      darken($link-color, 15%);
 
 // Typography
@@ -44,8 +44,8 @@
 //$font-family-monospace:   Monaco, Menlo, Consolas, "Courier New", monospace;
 //$font-family-base:        $font-family-sans-serif;
 
-//$font-size-base:          14px;
-//$font-size-large:         ceil($font-size-base * 1.25); // ~18px
+$font-size-base:          15px;
+$font-size-large:         15px; // ~18px
 //$font-size-small:         ceil($font-size-base * 0.85); // ~12px
 
 //$font-size-h1:            floor($font-size-base * 2.6); // ~36px
@@ -55,10 +55,10 @@
 //$font-size-h5:            $font-size-base;
 //$font-size-h6:            ceil($font-size-base * 0.85); // ~12px
 
-//$line-height-base:        1.428571429; // 20/14
+$line-height-base:        1.867; // 20/14
 //$line-height-computed:    floor($font-size-base * $line-height-base); // ~20px
 
-//$headings-font-family:    $font-family-base;
+$headings-font-family:    Oswald;
 //$headings-font-weight:    500;
 //$headings-line-height:    1.1;
 //$headings-color:          inherit;
@@ -85,9 +85,9 @@
 //$line-height-large:              1.33;
 //$line-height-small:              1.5;
 
-//$border-radius-base:             4px;
-//$border-radius-large:            6px;
-//$border-radius-small:            3px;
+$border-radius-base:             0px;
+$border-radius-large:            0px;
+$border-radius-small:            0px;
 
 //$component-active-color:         #fff;
 //$component-active-bg:            $brand-primary;
@@ -130,7 +130,7 @@
 //$btn-warning-border:             darken($btn-warning-bg, 5%);
 
 //$btn-danger-color:               #fff;
-//$btn-danger-bg:                  $brand-danger;
+$btn-danger-bg:                  #da4f49;
 //$btn-danger-border:              darken($btn-danger-bg, 5%);
 
 //$btn-info-color:                 #fff;
